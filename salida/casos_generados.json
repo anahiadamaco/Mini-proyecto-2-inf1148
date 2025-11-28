@@ -1,0 +1,177 @@
+[
+  {
+    "cadena": "num + num + num / num",
+    "tipo": "valida",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num + num / num * num * num",
+    "tipo": "valida",
+    "profundidad": 12,
+    "longitud": 9,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num * ( num / num )",
+    "tipo": "valida",
+    "profundidad": 10,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num",
+    "tipo": "valida",
+    "profundidad": 3,
+    "longitud": 1,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num * num - num - num",
+    "tipo": "valida",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num / num * num * ( num )",
+    "tipo": "valida",
+    "profundidad": 12,
+    "longitud": 9,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num * ( num ) + num",
+    "tipo": "valida",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num - num / num - num",
+    "tipo": "valida",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num + num - num * num",
+    "tipo": "valida",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num",
+    "tipo": "valida",
+    "profundidad": 3,
+    "longitud": 1,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num / ( num + num )",
+    "tipo": "extrema",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num * ( num + num )",
+    "tipo": "extrema",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num + num + num - num",
+    "tipo": "extrema",
+    "profundidad": 12,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num * num * num * num - num",
+    "tipo": "extrema",
+    "profundidad": 12,
+    "longitud": 9,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num - num - num / num",
+    "tipo": "extrema",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "num *  num ) +- num",
+    "tipo": "invalida",
+    "profundidad": 11,
+    "longitud": 6,
+    "num_mutaciones": 2
+  },
+  {
+    "cadena": "num + num + nxm / num",
+    "tipo": "invalida",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 1
+  },
+  {
+    "cadena": "num // num * num* ( num )",
+    "tipo": "invalida",
+    "profundidad": 12,
+    "longitud": 8,
+    "num_mutaciones": 2
+  },
+  {
+    "cadena": "num - num-/ num - nux",
+    "tipo": "invalida",
+    "profundidad": 11,
+    "longitud": 6,
+    "num_mutaciones": 2
+  },
+  {
+    "cadena": "n%m",
+    "tipo": "invalida",
+    "profundidad": 3,
+    "longitud": 1,
+    "num_mutaciones": 2
+  },
+  {
+    "cadena": "num * num - num - num",
+    "tipo": "invalida",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  },
+  {
+    "cadena": "n@",
+    "tipo": "invalida",
+    "profundidad": 3,
+    "longitud": 1,
+    "num_mutaciones": 2
+  },
+  {
+    "cadena": "um",
+    "tipo": "invalida",
+    "profundidad": 3,
+    "longitud": 1,
+    "num_mutaciones": 1
+  },
+  {
+    "cadena": "num / num * nu) * (%num )",
+    "tipo": "invalida",
+    "profundidad": 12,
+    "longitud": 8,
+    "num_mutaciones": 2
+  },
+  {
+    "cadena": "num - num / num - num",
+    "tipo": "invalida",
+    "profundidad": 11,
+    "longitud": 7,
+    "num_mutaciones": 0
+  }
+]

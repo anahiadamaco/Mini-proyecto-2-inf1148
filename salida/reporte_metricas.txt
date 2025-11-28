@@ -1,0 +1,19 @@
+REPORTE ESTADÍSTICO DEL GENERADOR
+=================================
+
+Total de cadenas generadas: 25
+Por tipo:
+  - valida: 10 (40.00%)
+  - invalida: 10 (40.00%)
+  - extrema: 5 (20.00%)
+
+Longitud promedio de las expresiones: 6.04
+Profundidad máxima alcanzada: 12
+Operadores generados por tipo:
+  +: 12
+  -: 17
+  *: 18
+  /: 13
+  %: 2
+
+Mutaciones promedio (cadenas inválidas): 0.56
